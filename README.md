@@ -1,2 +1,4 @@
 # NHOM-8
-Bài tập lớn
+# Thành viên nhóm 8
+- Nguyễn Thu Cúc
+- Lại Thu Hương
